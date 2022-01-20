@@ -1371,7 +1371,7 @@ if rad == 'Types of Graphs':
             'Note: Plot descriptions taken from [plotly.express](https://plotly.com/python-api-reference/generated/plotly.express.area.html)')
 
     if my_type == 'Polar (Scatter)':
-        st.image('polar_Scatter.png')
+        st.image('polar_scatter.png')
         st.markdown('In a polar scatter plot, each row of data_frame is represented by a symbol mark in polar coordinates.')
         st.write('')
         st.caption(
